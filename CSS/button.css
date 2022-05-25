@@ -1,0 +1,215 @@
+* {
+    margin: 0 auto;
+}
+header a {
+    text-decoration: none;
+    color: #55565b;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+}
+header img {
+    width: 29.7%;
+    margin-left: -29.9%;
+}
+.nav_a {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-top: 2%;
+
+}
+#nav {
+    display: flex;
+    justify-content: space-around;
+}
+.db 
+{
+    text-align: center;
+    width: 100%;
+    background-color: aliceblue;
+}
+.db h2
+{
+    color: #55565b;
+    font-size: 2.925rem;
+    font-family: "Exo 2", sans-serif;
+}
+.db h3
+{
+    display: inline;
+    color: #55565b;
+    font-family: "Exo 2", sans-serif;
+}
+.db a
+{
+    display: inline;
+    color: #55565b;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: "Exo 2", sans-serif;
+}
+.db br
+{
+    margin-top: 20%;
+}
+.main
+{
+    display: flex;
+    justify-content: space-around;
+}
+main h1
+{
+    margin-bottom: 2rem;
+    margin-top: 7%;
+    margin-left: 12.5%;
+    font-size: 1.25rem;
+    letter-spacing: .1429rem;
+    font-weight: 700;
+    font-family: "Exo 2", sans-serif;
+    color: #55565b;
+}
+.main input
+{
+    border: 0.1429rem solid #f1f1f1;
+    font: 1.125rem/2rem 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 0 0.9375rem;
+    background: none;
+    letter-spacing: .2429rem;
+    border-radius: 0;
+    color: #55565b;
+    font-weight: 500;
+    height: 3.125rem;
+    box-shadow: none;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+#prim
+{
+    border: 0.1429rem solid #f1f1f1;
+    color: #55565b;
+    background: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-left: 5%;
+    font-weight: 500;
+    font-size: 1.6rem;
+    padding: 0 0.9375rem;
+}
+.left
+{
+    width: 50%;
+    margin-left: 10%;
+}
+.a img
+{
+    width: 10%;
+    margin-bottom: -1%;
+}
+.a p
+{
+    display: inline-block;
+    font-family: "Exo 2", sans-serif;
+    color: #575757;
+    font-size: 1.2rem;
+    padding-left: 2%;
+    font-weight: 400;
+    line-height: 2.1;
+    margin-bottom: 7%;
+}
+.b img
+{
+    width: 10%;
+    margin-bottom: -1%;
+}
+.b p
+{
+    display: inline-block;
+    font-family: "Exo 2", sans-serif;
+    color: #575757;
+    font-size: 1.2rem;
+    padding-left: 2%;
+    font-weight: 400;
+    line-height: 2.1;
+    margin-bottom: 7%;
+}
+.c img
+{
+    width: 10%;
+    margin-bottom: -1%;
+}
+.c p
+{
+    display: inline-block;
+    font-family: "Exo 2", sans-serif;
+    color: #575757;
+    font-size: 1.2rem;
+    padding-left: 2%;
+    font-weight: 400;
+    line-height: 2.1;
+}
+.right
+{  
+    width: 50%;
+    margin-top: -1%;
+}
+button
+{
+    padding-right: 2rem;
+    padding-left: 1rem;
+    background: #51777c;
+    border-color: #51777c;
+    font-size: 1rem;
+    padding: 0.9375rem;
+    letter-spacing: .1429rem;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 500;
+    line-height: .8;
+    margin-left: 39%;
+    font-family: 'Exo 2', sans-serif;
+    margin-top: 1%;
+}
+.button:hover 
+{
+    opacity: 0.1%;
+    transition: all linear .3s
+}
+footer img
+{
+    width: 7%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.last 
+{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    margin-top: -4%;
+}
+footer h1 
+{
+    color: #7d7d7d;
+    font-weight: 400;
+    font-family: 'Goldman', 'sans-serif';
+    margin-top: 8%;
+    text-align: center;
+}
+footer
+{
+    background-color: #202020;
+    margin-top: 5%;
+}
+.last a
+{
+    color: #7d7d7d;
+    font-weight: 200;
+    font-family: "Exo 2", sans-serif;
+    text-decoration: none;
+}
+.last a:hover 
+{
+    color: #ffffff;
+}

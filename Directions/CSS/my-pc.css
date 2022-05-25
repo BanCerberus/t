@@ -1,0 +1,169 @@
+* {
+    margin: 0 auto;
+}
+header a {
+    text-decoration: none;
+    color: #55565b;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+}
+header img {
+    width: 29.7%;
+    margin-left: -29.9%;
+}
+.nav_a {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-top: 2%;
+
+}
+#nav {
+    display: flex;
+    justify-content: space-around;
+}
+.db 
+{
+    text-align: center;
+    width: 100%;
+    background-color: aliceblue;
+}
+.db h2
+{
+    color: #55565b;
+    font-size: 2.925rem;
+    margin-bottom: 1%;
+    font-family: "Exo 2", sans-serif;
+}
+.db h3
+{
+    display: inline;
+    color: #55565b;
+    font-weight: 550;
+    font-family: "Exo 2", sans-serif;
+}
+.db a
+{
+    display: inline;
+    color: #55565b;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 550;
+    font-family: "Exo 2", sans-serif;
+}
+.db br
+{
+    margin-top: 20%;
+}
+.nid h3, h4
+{
+    margin-left: 2rem;
+    display: block;
+    color: #55565b;
+    font-weight: 700;
+    font-family: "Exo 2", sans-serif;
+    letter-spacing: .0625rem;
+    margin-top: 3%;
+}
+.nid h4
+{
+    margin-top: 8%;
+}
+.nid p
+{
+    font-weight: 400;
+    font-family: "Exo 2", sans-serif;
+    letter-spacing: .0625rem;
+    color: #55565b;
+    font-size: .99rem;
+    line-height: 2.1;
+    width: 60%;
+    letter-spacing: .0625rem;
+    margin-top: 3%;
+    margin-left: 4.3%;
+}
+.up img
+{
+    margin-bottom: -5%;
+}
+.nid 
+{   
+    display: inline-block;
+    width: 50%;
+}
+.clubs h3
+{
+    display: block;
+    margin-bottom: 1.5rem;
+    font-family: "Exo 2", sans-serif;
+    font-size: .875rem;
+    font-weight: 600;
+    color: #55565b;
+}
+.clubs a 
+{
+    display: block;
+    font-size: 1.2em;
+    font-family: "Exo 2", sans-serif;
+    color: #55565b;
+}
+.clubs 
+{
+    line-height: 250%;
+    margin-left: 7.25%;
+    margin-top: 3%;
+}
+.imgg
+{
+    width: 72.5%;
+    margin-left: 2%;
+    margin-top: 7%;
+}
+.img
+{
+    width: 35%;
+    margin-left: 2%;
+}
+.gal
+{
+    margin-left: 50%;
+    margin-top: -25%;
+}
+footer img
+{
+    width: 7%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.last 
+{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    margin-top: -4%;
+}
+footer h1 
+{
+    color: #7d7d7d;
+    font-weight: 400;
+    font-family: 'Goldman', 'sans-serif';
+    margin-top: 8%;
+    text-align: center;
+}
+footer
+{
+    background-color: #202020;
+    margin-top: 5%;
+}
+.last a
+{
+    color: #7d7d7d;
+    font-weight: 200;
+    font-family: "Exo 2", sans-serif;
+    text-decoration: none;
+}
+.last a:hover 
+{
+    color: #ffffff;
+}

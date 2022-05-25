@@ -1,0 +1,202 @@
+header img {
+    width: 10%;
+    margin-top: -6%;
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin-left: 5%;
+
+}
+.nav_a {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    font-family: "Exo 2", sans-serif;
+
+}
+.nav a {
+    text-decoration: none;
+    color: black;
+    margin-top: 3%;
+    color: #55565b;
+}
+.db 
+{
+    text-align: center;
+    width: 100%;
+    background-color: aliceblue;
+}
+.db h1
+{
+    color: #55565b;
+    font-size: 2.925rem;
+    font-family: "Exo 2", sans-serif;
+}
+.db h2
+{
+    color: #55565b;
+
+    font-family: "Exo 2", sans-serif;
+}
+.g
+{
+    width: 50%;
+    margin-top: 7%;
+    margin-left: -4%;
+}
+.up img
+{
+    width: 38%;
+}
+.up 
+{
+    display: flex;
+    justify-content: space-around;
+    width: 55%;
+    margin-left: 43%;
+    margin-top: -49%;
+}
+.b 
+{
+    width: 48.625%;
+    margin-top: 2.5%;
+    margin-left: 46.3%;
+    margin-bottom: 7%;
+}
+.inf
+{
+    margin-left: 2rem;
+    display: block;
+    color: #55565b;
+    font-weight: 700;
+    font-size: .9rem;
+    font-family: "Exo 2", sans-serif;
+    line-height: 250%;
+    letter-spacing: 0.1rem;
+}
+.l
+{
+    margin-bottom: 2%;
+}
+.minf h2 
+{
+    display: block;
+    margin-bottom: 1.5rem;
+    font-size: .875rem;
+    font-family: "Exo 2", sans-serif;
+    font-weight: 600;
+    color: #55565b;
+}
+.minf ul li 
+{
+    display: block;
+    font-size: 1.2em;
+    color: #55565b;
+    line-height: 200%;
+}
+.minf 
+{
+    margin-left: 50%;
+    margin-top: -22%;
+}
+footer
+{
+    background: #212121;
+    margin: 0 auto;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+    padding-left: 1%;
+    margin-left:-0.5%;
+    margin-bottom: -1%;
+
+}
+footer img
+{
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 15%;
+
+}
+.fo h1
+{
+    font-family: "Exo 2", sans-serif;
+    color: #7d7d7d;
+    font-weight: 400;
+}
+.fo h2
+{
+    font-family: "Exo 2", sans-serif;
+    color: #7d7d7d;
+    font-weight: 400;
+}
+.fo 
+{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin-top: 8.5%;
+    margin-left: 7%;
+}
+.fog 
+{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+
+}
+.co
+{
+    font-weight: 400;
+    font-family: "Exo 2", sans-serif;
+    letter-spacing: .0625rem;
+    color: #55565b;
+    font-size: 1.5rem;
+    line-height: 2.1;
+    text-align: center;
+    margin-top: 2%;
+}
+.dou
+{
+    margin-top: 1.975%;
+}
+.fo h1:hover
+{
+    color: white;
+    font-weight: 500;
+    transition: all linear .2s;
+}
+.fo h2:hover
+{
+    color: white;
+    font-weight: 500;
+    transition: all linear .2s;
+}
+@media (min-width:426px)
+{
+.nav_a {
+    display: flex;
+    justify-content: space-between;
+    width: 150%;
+    margin-left: -5%;
+    font-family: "Exo 2", sans-serif;
+}
+.minf
+{
+    margin-top: 10%;
+    margin-left: 4.75%;
+}
+.fog 
+{
+    width: 90%;
+}
+footer img
+{
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 3%;
+
+}
+}
